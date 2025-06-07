@@ -1,0 +1,13 @@
+Date,Region,Product,Sales
+2023-01-01,East,Laptop,1200
+2023-01-01,West,Mouse,25
+2023-01-02,East,Keyboard,75
+2023-01-02,North,Laptop,1500
+2023-01-03,West,Monitor,300
+2023-01-03,East,Mouse,30
+2023-01-04,South,Laptop,1350
+2023-01-04,North,Keyboard,80
+2023-01-05,East,Monitor,320
+2023-01-05,West,Laptop,1100
+2023-01-06,South,Mouse,20
+2023-01-06,North,Monitor,280
