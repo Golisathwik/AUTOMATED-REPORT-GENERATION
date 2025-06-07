@@ -82,3 +82,5 @@ This automated report generation system serves as a robust foundation for variou
 
 ## Output
 
+![Image](https://github.com/user-attachments/assets/79b6a78d-2ce3-467f-8533-b00dddde513c)
+
