@@ -80,6 +80,8 @@ The final and perhaps most visible component is the **generation of a formatted 
 
 This automated report generation system serves as a robust foundation for various applications requiring regular, data-driven insights presented in a clear and professional format.
 
+---
+
 ## Output
 
 ![Image](https://github.com/user-attachments/assets/79b6a78d-2ce3-467f-8533-b00dddde513c)
